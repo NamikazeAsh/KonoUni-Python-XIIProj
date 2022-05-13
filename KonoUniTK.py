@@ -1,6 +1,3 @@
-#Credits :-
-#Ashwin = Main Page,Co-Curricular Form and Joining the Tables"
-#Zohaib = Student Information Form
 
 from matplotlib import pyplot as plt 
 from tkinter import *
